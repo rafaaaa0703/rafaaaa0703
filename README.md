@@ -67,7 +67,7 @@ To build strong real-world technical skills and create useful AI, Data Science, 
 ## Connect With Me
 
 - GitHub: @rafaaaa0703
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn:- LinkedIn: https://www.linkedin.com/in/rafaaa/
 
 ---
 
