@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Rafa
 
-<!--
-**rafaaaa0703/rafaaaa0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+I'm an AI & Data Science student interested in building practical projects using AI, automation, and data-driven technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- B.Tech Artificial Intelligence & Data Science
+- Interested in Artificial Intelligence, Machine Learning & Data Science
+- Learning UiPath and RPA Automation
+- Interested in Data Analysis and Business Intelligence
+- Building practical, real-world projects
+- Continuously learning and improving my technical skills
+
+## Technical Skills
+
+**Programming**
+- Python
+- SQL
+- VB.NET
+
+**AI & Data Science**
+- Machine Learning
+- Data Analysis
+- Prompt Engineering
+- Natural Language Processing
+
+**Automation**
+- UiPath
+- RPA
+- Workflow Automation
+- PDF & Excel Automation
+
+**Tools**
+- Git & GitHub
+- Power BI
+- VS Code
+- UiPath Studio
+
+## Projects
+
+### Resume Screening Automation
+
+Automated resume screening workflow built with UiPath to extract candidate information, match skills with job requirements, calculate screening scores, and generate structured recruitment results.
+
+### Digital Health System
+
+A prototype healthcare platform designed to manage patient medical history, appointments, prescriptions, and communication between patients and healthcare professionals.
+
+### AI & Data Science Projects
+
+Developing practical projects involving machine learning, data analysis, automation, and AI-based solutions.
+
+## Currently Learning
+
+- Advanced UiPath Automation
+- Machine Learning
+- Data Analytics
+- AI Applications
+- Real-world Automation Workflows
+
+## Goals
+
+To build strong real-world technical skills and create useful AI, Data Science, and Automation solutions.
+
+## Connect With Me
+
+- GitHub: @rafaaaa0703
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+Thanks for visiting my profile!
